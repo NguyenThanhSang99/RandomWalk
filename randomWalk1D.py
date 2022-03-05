@@ -22,4 +22,4 @@ for i_down, i_up in zip(down_point, up_point):
 # plotting down the graph of the random walk in 1D
 plt.plot(position)
 plt.show()
-plt.savefig("rand_walk_1D.png",bbox_inches="tight",dpi=600)
+#plt.savefig("rand_walk_1D.png")
